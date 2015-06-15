@@ -1,0 +1,17 @@
+title: "Timetraveller - An Interactive Explorer for Spatio-Temporal Trace Data"
+date: 2015-06-15T12:00:00Z
+github: fnogatz/timetraveller-report
+
+authors:
+  - &falco-nogatz
+    id: "falco-nogatz"
+    name: "Falco Nogatz"
+    email: "falco.nogatz@uni-ulm.de"
+
+affiliations:
+  - name: "Ulm University"
+    department: "Faculty of Engineering and Computer Science, Institute of Distributed Systems"
+    location: "89069 Ulm, Germany"
+    url: http://www.uni-ulm.de/in/vs
+    members:
+      - *falco-nogatz
