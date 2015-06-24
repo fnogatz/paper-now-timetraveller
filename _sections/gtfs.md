@@ -17,7 +17,7 @@ Today, [more than 900 transit agencies worldwide](http://www.gtfs-data-exchange.
 	87001R0-0535,05:37:00,05:37:00,900107312,3
 	87001R0-0535,05:38:00,05:38:00,900107412,4
 
-The GTFS format makes use of unique identifiers to refer to entities of different CSV files. To simplify the use of the provided GTFS files we created [transportation](#source-code-transportation), a node.js module that parses the given files and returns a semantic representation.
+The GTFS format makes use of unique identifiers to refer to entities of different CSV files. To simplify the use of the provided GTFS files we created [transportation](#source-code-transportation), a [node.js](http://nodejs.org/) module that parses the given files and returns a semantic representation.
 
 ### Extrapolation of Traces
 

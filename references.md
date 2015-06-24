@@ -12,7 +12,7 @@
 
 * <a name="ref-mongodb"></a>[MongoDB](http://docs.mongodb.org/manual/applications/geospatial-indexes/): Document-oriented NoSQL database.<br><small>*Link to documentation of geospatial indexes and queries.*</small>
 
-* <a name="ref-nodejs"></a>[node.js](http://docs.mongodb.org/manual/applications/geospatial-indexes/): Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.<br><small>*Link to nodejs.org.*</small>
+* <a name="ref-nodejs"></a>[node.js](http://nodejs.org/): Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.<br><small>*Link to nodejs.org.*</small>
 
 * <a name="ref-expressjs"></a>[Express](http://expressjs.com/): Minimal and flexible Node.js web application framework.<br><small>*Link to expressjs.com.*</small>
 

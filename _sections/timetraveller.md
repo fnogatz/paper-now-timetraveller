@@ -46,7 +46,7 @@ The [timetraveller](#source-code-timetraveller) projects allows to display multi
 
 The web server is based on the following technologies:
 
-* [node.js](http://docs.mongodb.org/manual/applications/geospatial-indexes/) as the server-sided JavaScript runtime.
+* [node.js](http://nodejs.org/) as the server-sided JavaScript runtime.
 * [Express](http://expressjs.com/) as the web application framework.
 
 ### Client Technologies
